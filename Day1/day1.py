@@ -14,7 +14,7 @@
 #
 # print(max_cal)  # 70374
 
-# part 1
+# part 2
 top_cal = [0, 0, 0]
 with open("calories.txt", "r") as f:
     cal_count = 0
